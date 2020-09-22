@@ -9,7 +9,7 @@ object bombon {
 }
 
 object alfajor {
-	// definir
+	var peso = 20
 }
 
 object caramelo {
